@@ -18,6 +18,6 @@
 ## Github Status
 <div>
   <a href="https://github.com/JeronimoSantos">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=JeronimoSantos&show_icons=true&theme=dracula&inclube_all_commits=true&count_private=true"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeronimoSantos&layout=compact&langs_count=16&theme=dracula"/>
+  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=JeronimoSantos&show_icons=true&theme=tokyonight&inclube_all_commits=true&count_private=true"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeronimoSantos&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
