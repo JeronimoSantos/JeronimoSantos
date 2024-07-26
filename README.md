@@ -3,6 +3,7 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=73AFF5&width=476&height=84&lines=Meu+nome+%C3%A9+Jer%C3%B4nimo+Santos+Rodrigues;My+name+is+Jer%C3%B4nimo+Santos+Rodrigues;Tenho+20+anos;I'm+20+years+old" alt="Typing SVG" /></a>
 </div>
+<br>
 
 ## Estudante em programação deste Outubro de 2023, focado em aprender e executar os meus objetivos e metas para me desenvolver como um proficional e como uma pessoa melhor.
 
@@ -21,8 +22,16 @@
 </div>
 
 ## Github Status
-<div>
-  <a href="https://github.com/JeronimoSantos">
-  <img width="52%" src="https://github-readme-stats.vercel.app/api?username=JeronimoSantos&show_icons=true&theme=tokyonight&inclube_all_commits=true&count_private=true"/>
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeronimoSantos&layout=compact&langs_count=16&theme=tokyonight"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeronimoSantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=prussian&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeronimoSantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=prussian&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=JeronimoSantos&locale=en&mode=daily&theme=prussian&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeronimoSantos&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
