@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/41698358-80ed-4ab3-91d9-31ec5b5f4c63" />
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/484d8ad0-6aa2-421c-b7aa-7f8d0c8a62ba" />
 
 # Olá! eu sou Jerônimo Santos Rodrigues!👋
 ## Estudante em programação deste Outubro de 2023, focado em aprender e executar os meus objetivos e metas para me desenvolver como um proficional e como uma pessoa melhor.
