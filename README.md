@@ -1,6 +1,9 @@
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/484d8ad0-6aa2-421c-b7aa-7f8d0c8a62ba" />
+<br>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=73AFF5&width=476&height=84&lines=Meu+nome+%C3%A9+Jer%C3%B4nimo+Santos+Rodrigues;My+name+is+Jer%C3%B4nimo+Santos+Rodrigues;Tenho+20+anos;I'm+20+years+old" alt="Typing SVG" /></a>
+</div>
 
-# Olá! eu sou Jerônimo Santos Rodrigues!👋
 ## Estudante em programação deste Outubro de 2023, focado em aprender e executar os meus objetivos e metas para me desenvolver como um proficional e como uma pessoa melhor.
 
 <div style="display: inline_block">
