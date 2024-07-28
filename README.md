@@ -1,5 +1,3 @@
-<img width=100% bottom=50px src="https://github.com/user-attachments/assets/484d8ad0-6aa2-421c-b7aa-7f8d0c8a62ba" />
-<br>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=73AFF5&width=476&height=84&lines=Meu+nome+%C3%A9+Jer%C3%B4nimo+Santos+Rodrigues;My+name+is+Jer%C3%B4nimo+Santos+Rodrigues;Tenho+20+anos;I'm+20+years+old" alt="Typing SVG" /></a>
 </div>
@@ -14,11 +12,17 @@
   <img align="center" alt="Jeronimo-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 
- ## Connect with me
-<div>
-  <a href="https://www.linkedin.com/in/jer%C3%B4nimo-s-rodrigues-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/jeronimo_santos_oficial/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ - ##  Connect with me
+   <div align="left">
+  <a href="https://www.linkedin.com/in/jer%C3%B4nimo-s-rodrigues-dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="60" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/jeronimo_santos_oficial/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="60" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="60" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ## Github Status
