@@ -1,7 +1,6 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=73AFF5&width=476&height=84&lines=Meu+nome+%C3%A9+Jer%C3%B4nimo+Santos+Rodrigues;My+name+is+Jer%C3%B4nimo+Santos+Rodrigues;Tenho+20+anos;I'm+20+years+old" alt="Typing SVG" /></a>
-</div>
-<br>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000097&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=001c84size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+)](https://git.io/typing-svg)
 
 ## Estudante em programação deste Outubro de 2023, focado em aprender e executar os meus objetivos e metas para me desenvolver como um proficional e como uma pessoa melhor.
 
@@ -53,3 +52,5 @@
 <div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeronimoSantos&radius=16&theme=modern-lilac&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000097&height=120&section=footer"/>
