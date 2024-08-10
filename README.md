@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=001c84size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Github+)](https://git.io/typing-svg)
 
-## Estudante em programação deste Outubro de 2023, focado em aprender e executar os meus objetivos e metas para me desenvolver como um proficional e como uma pessoa melhor.
+#
+
+<p align="center">Estudante em programação deste Outubro de 2023, focado em aprender e executar os meus objetivos e metas para me desenvolver como um proficional e como uma pessoa melhor.</p>
 
 <h2 align="left">Tecnologias</h2>
 
