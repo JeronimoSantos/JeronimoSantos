@@ -4,12 +4,11 @@
 
 ###
 
-<p align="center">Programador Front-end com as tecnologias: HTML, CSS, JavaScript e React. Atualmente estou participando da Instituição Programadores do Amanhã. Buscando sempre aprender mais para aperfeiçoar meus conhecimentos e habilidades.</p>
-<p></p>
+#### <center>Programador Front-end com as tecnologias: **HTML**, **CSS**, **JavaScript** e **React**. Atualmente estou participando da _Instituição Programadores do Amanhã_. Buscando sempre aprender mais para aperfeiçoar meus conhecimentos e habilidades.
 
 ###
 
-<h2 align="left">Redes Sociais</h2>
+> ## Redes Sociais
 
 ###
 
@@ -27,7 +26,7 @@
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+> ## Tecnologias
 
 ###
 
@@ -42,7 +41,15 @@
 </div>
 
 ###
-<h2 align="center">GitHub Stats</h2>
+
+> ## Formações/Cursos
+- [Potência Tech iFood - Programação do Zero](https://drive.google.com/file/d/1HyYCPkQY5JoK64A6vv4RSGYkg2o-kyv9/view)
+- [Discover - Rocketseat](https://app.rocketseat.com.br/certificates/838b4602-4d5a-4b6e-9735-25fe79271447)
+- [Programa Oracle Next Education T6 - Alura](https://cursos.alura.com.br/program/certificate/5f6b1328-a8d9-4d45-80c3-419abd1ce3e8?lang)
+- [Oratória para Apresentações de Impacto](https://app.kajabi.com/certificates/d9db319a)
+- [Módulo 01 - Programadores do Amanhã](https://drive.google.com/file/d/1_FUsFyuM76OdPn6zpMZsl0Wq0K2B9_QQ/view)
+
+> ## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JeronimoSantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
