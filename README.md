@@ -4,7 +4,7 @@
 
 ###
 
-#### <center>Programador Front-end com as tecnologias: **HTML**, **CSS**, **JavaScript** e **React**. Atualmente estou participando da _Instituição Programadores do Amanhã_. Buscando sempre aprender mais para aperfeiçoar meus conhecimentos e habilidades.
+#### <div align="center">Programador Front-end com as tecnologias: **HTML**, **CSS**, **JavaScript** e **React**. Atualmente estou participando da _Instituição Programadores do Amanhã_. Buscando sempre aprender mais para aperfeiçoar meus conhecimentos e habilidades.</div>
 
 ###
 
