@@ -6,7 +6,7 @@
 
 ###
 
-#### <div align = "center"> Programador Full-Stack com as tecnologias: **HTML**, **CSS**, **JavaScript**, **React** e outros. Atualmente estou participando da _Instituição Programadores do Amanhã_. Buscando sempre aprender mais para aperfeiçoar meus conhecimentos e habilidades. </div>
+#### <div align = "center"> Desenvolvedor Full-Stack com as tecnologias: **HTML**, **CSS**, **JavaScript**, **React** e outros. Atualmente estou participando da _Instituição Programadores do Amanhã_. Buscando sempre aprender mais para aperfeiçoar meus conhecimentos e habilidades. </div>
 
 ###
 
