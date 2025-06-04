@@ -1,7 +1,7 @@
 <img align = "right" height = "590em" src = "https://raw.githubusercontent.com/gist/JeronimoSantos/045a175c2d06a4cde0cb9a63b0cdb91c/raw/135a0f095aaf128816b389694c149d7184307170/githubcard.svg">
 
 <div align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFCD57&vCenter=true&width=435&lines=%E2%9C%A8+Hello+Word!+%E2%9C%A8;%F0%9F%91%A6+My+name+is+Jer%C3%B4nimo+%F0%9F%91%A6;%F0%9F%8E%AE+I'm+20+Years+Old+%F0%9F%8E%AE;%F0%9F%92%BB+Programmer+Front-End+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFCD57&vCenter=true&width=435&lines=%E2%9C%A8+Hello+World!+%E2%9C%A8;%F0%9F%91%A6+My+name+is+Jer%C3%B4nimo+%F0%9F%91%A6;%F0%9F%8E%AE+I'm+21+Years+Old+%F0%9F%8E%AE;%F0%9F%92%BB+Programmer+Full-Stack+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 
 ###
