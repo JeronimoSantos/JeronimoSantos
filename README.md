@@ -1,16 +1,18 @@
+<img align = "right" height = "590em" src = "https://raw.githubusercontent.com/gist/JeronimoSantos/045a175c2d06a4cde0cb9a63b0cdb91c/raw/135a0f095aaf128816b389694c149d7184307170/githubcard.svg">
+
 <div align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFCD57&vCenter=true&width=435&lines=%E2%9C%A8+Hello+Word!+%E2%9C%A8;%F0%9F%91%A6+My+name+is+Jer%C3%B4nimo+%F0%9F%91%A6;%F0%9F%8E%AE+I'm+20+Years+Old+%F0%9F%8E%AE;%F0%9F%92%BB+Programmer+Front-End+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 
 ###
 
-#### <div align = "center"> Programador Front-end com as tecnologias: **HTML**, **CSS**, **JavaScript** e **React**. Atualmente estou participando da _Instituição Programadores do Amanhã_. Buscando sempre aprender mais para aperfeiçoar meus conhecimentos e habilidades. </div>
+#### <div align = "center"> Programador Front-end com as tecnologias: **HTML**, **CSS**, **JavaScript**, **React** e outros. Atualmente estou participando da _Instituição Programadores do Amanhã_. Buscando sempre aprender mais para aperfeiçoar meus conhecimentos e habilidades. </div>
 
 ###
 
-## <div align = "center"> Redes Sociais </div>
+<div align="center"> 
 
-###
+### Redes Sociais <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
 
 <div align = "center">
   <a href="https://www.linkedin.com/in/jeronimo-s-rodrigues-dev/" target="_blank">
@@ -26,7 +28,7 @@
 
 ###
 
-## <div align = "center"> Tecnologias </div>
+### Tecnologias <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
 
 ###
 
@@ -53,7 +55,8 @@
 
 ###
 
-## <div align = "center"> Formações/Cursos </div>
+### Formações/Cursos <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
+</div>
 
 - [Potência Tech iFood - Programação do Zero](https://drive.google.com/file/d/1HyYCPkQY5JoK64A6vv4RSGYkg2o-kyv9/view)
 - [Discover - Rocketseat](https://app.rocketseat.com.br/certificates/838b4602-4d5a-4b6e-9735-25fe79271447)
@@ -61,7 +64,9 @@
 - [Oratória para Apresentações de Impacto](https://app.kajabi.com/certificates/d9db319a)
 - [Módulo 01 - Programadores do Amanhã](https://drive.google.com/file/d/1_FUsFyuM76OdPn6zpMZsl0Wq0K2B9_QQ/view)
 
-## <div align = "center"> GitHub Stats </div>
+<div align = "center"> 
+
+###  GitHub Stats <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JeronimoSantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -79,3 +84,4 @@
 ###
 
 <img width=100% height=400 src="https://github.com/user-attachments/assets/83d736f5-57df-4e10-ad13-6124dd5a0fac"/>
+</div>
