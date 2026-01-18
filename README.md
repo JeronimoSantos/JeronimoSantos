@@ -6,7 +6,13 @@
 
 ###
 
-#### <div align = "left"> Desenvolvedor Full-Stack com as tecnologias: **HTML**, **CSS**, **JavaScript**, **React** e outros. Atualmente estou participando da _Instituição Programadores do Amanhã_. Buscando sempre aprender mais para aperfeiçoar meus conhecimentos e habilidades. </div>
+<div align = "left">Desenvolvedor Full-Stack em constante evolução, focado em criar soluções modernas e eficientes. Atualmente, sou formado no <strong>Programadores do Amanhã</strong> onde aprofundo meus conhecimentos em tecnologias de ponta.</div>
+
+<br/>
+
+<div align = "left">
+  Atualmente trabalhando em projetos com <strong>React, Node.js, TypeScript e outras</strong>. Formado pelos programas <strong>Potência Tech iFood</strong> e <strong>Oracle Next Education</strong>. Apaixonado por transformar ideias em código e aprender novas ferramentas e linguagens.
+</div>
 
 ###
 
@@ -57,16 +63,6 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
-### Formações/Cursos <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
-
-</div>
-
-- [Potência Tech iFood - Programação do Zero](https://drive.google.com/file/d/1HyYCPkQY5JoK64A6vv4RSGYkg2o-kyv9/view)
-- [Discover - Rocketseat](https://app.rocketseat.com.br/certificates/838b4602-4d5a-4b6e-9735-25fe79271447)
-- [Programa Oracle Next Education T6 - Alura](https://cursos.alura.com.br/program/certificate/5f6b1328-a8d9-4d45-80c3-419abd1ce3e8?lang)
-- [Oratória para Apresentações de Impacto](https://app.kajabi.com/certificates/d9db319a)
-- [Módulo 01 - Programadores do Amanhã](https://drive.google.com/file/d/1_FUsFyuM76OdPn6zpMZsl0Wq0K2B9_QQ/view)
-
 <div align = "center"> 
 
 ###  GitHub Stats <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
@@ -81,11 +77,6 @@
     height="170" 
     alt="languages graph" 
     src="https://github-readme-stats-ebon-three-28.vercel.app/api/top-langs?username=JeronimoSantos&layout=compact&langs_count=5&theme=rose_pine&locale=pt-br&cache_seconds=1800" 
-  />
-  <img 
-  height="170"
-  alt="streak graph"
-  src="https://streak-stats.demolab.com?user=JeronimoSantos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"  
   />
   <img 
   height="170"
