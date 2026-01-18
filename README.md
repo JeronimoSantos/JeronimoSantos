@@ -77,7 +77,7 @@
   <img 
   height="170"
   alt="streak graph"
-  src="https://github-readme-streak-stats-three-olive.vercel.app?user=JeronimoSantos&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3"
+  src="https://streak-stats.demolab.com?user=JeronimoSantos&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3"
   />
 </div>
 
