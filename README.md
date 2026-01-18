@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/jeronimo-s-rodrigues-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"/>
   </a>
-  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank">
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=new" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"/>
   </a>
   <a href="https://www.instagram.com/jeronimo_santos_oficial/" target="_blank">
