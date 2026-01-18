@@ -4,8 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFCD57&vCenter=true&width=435&lines=%E2%9C%A8+Hello+World!+%E2%9C%A8;%F0%9F%91%A6+My+name+is+Jer%C3%B4nimo+%F0%9F%91%A6;%F0%9F%8E%AE+I'm+21+Years+Old+%F0%9F%8E%AE;%F0%9F%92%BB+Programmer+Full-Stack+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 
-###
-
 <div align = "left">Desenvolvedor Full-Stack em constante evolução, focado em criar soluções modernas e eficientes. Atualmente, sou formado no <strong>Programadores do Amanhã</strong> onde aprofundo meus conhecimentos em tecnologias de ponta.</div>
 
 <br/>
@@ -13,8 +11,6 @@
 <div align = "left">
   Atualmente trabalhando em projetos com <strong>React, Node.js, TypeScript e outras</strong>. Formado pelos programas <strong>Potência Tech iFood</strong> e <strong>Oracle Next Education</strong>. Apaixonado por transformar ideias em código e aprender novas ferramentas e linguagens.
 </div>
-
-###
 
 <div align="left"> 
 
