@@ -6,15 +6,15 @@
 
 ###
 
-#### <div align = "center"> Desenvolvedor Full-Stack com as tecnologias: **HTML**, **CSS**, **JavaScript**, **React** e outros. Atualmente estou participando da _Instituição Programadores do Amanhã_. Buscando sempre aprender mais para aperfeiçoar meus conhecimentos e habilidades. </div>
+#### <div align = "left"> Desenvolvedor Full-Stack com as tecnologias: **HTML**, **CSS**, **JavaScript**, **React** e outros. Atualmente estou participando da _Instituição Programadores do Amanhã_. Buscando sempre aprender mais para aperfeiçoar meus conhecimentos e habilidades. </div>
 
 ###
 
-<div align="center"> 
+<div align="left"> 
 
-### Redes Sociais <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
+### Redes Sociais
 
-<div align = "center">
+<div align = "left">
   <a href="https://www.linkedin.com/in/jeronimo-s-rodrigues-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"/>
   </a>
@@ -28,10 +28,10 @@
 
 ###
 
-### Tecnologias e Ferramentas <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
+### Tecnologias e Ferramentas
 
-<h3 align="center">Front-end</h3>
-<div align="center">
+<h3 align="left">Front-end</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -40,15 +40,15 @@
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 </div>
 
-<h3 align="center">Back-end & Database</h3>
-<div align="center">
+<h3 align="left">Back-end & Database</h3>
+<div align="left">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
-<h3 align="center">Ferramentas & Design</h3>
+<h3 align="left">Ferramentas & Design</h3>
 <div align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -75,18 +75,19 @@
   <img 
     height="170" 
     alt="stats graph" 
-    src="https://github-readme-stats-ebon-three-28.vercel.app/api?username=JeronimoSantos&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=pt-br&cache_seconds=1800" 
+    src="https://github-readme-stats-ebon-three-28.vercel.app/api?username=JeronimoSantos&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&locale=pt-br&cache_seconds=1800" 
   />
   <img 
     height="170" 
     alt="languages graph" 
-    src="https://github-readme-stats-ebon-three-28.vercel.app/api/top-langs?username=JeronimoSantos&layout=compact&langs_count=5&theme=dark&locale=pt-br&cache_seconds=1800" 
+    src="https://github-readme-stats-ebon-three-28.vercel.app/api/top-langs?username=JeronimoSantos&layout=compact&langs_count=5&theme=rose_pine&locale=pt-br&cache_seconds=1800" 
   />
   <img 
   height="170"
   alt="streak graph"
-  src="https://streak-stats.demolab.com?user=JeronimoSantos&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3"  
+  src="https://streak-stats.demolab.com?user=JeronimoSantos&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"  
   />
+  <img src="https://streak-stats.demolab.com?user=JeronimoSantos&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
