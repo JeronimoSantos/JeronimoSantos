@@ -12,7 +12,7 @@
   Atualmente trabalhando em projetos com <strong>React, Node.js, TypeScript e outras</strong>. Formado pelos programas <strong>Potência Tech iFood</strong> e <strong>Oracle Next Education</strong>. Apaixonado por transformar ideias em código e aprender novas ferramentas e linguagens.
 </div>
 
-<div align="left"> 
+<div align="left">
 
 ### Redes Sociais
 
@@ -74,9 +74,19 @@
     alt="languages graph" 
     src="https://github-readme-stats-ebon-three-28.vercel.app/api/top-langs?username=JeronimoSantos&layout=compact&langs_count=6&theme=rose_pine&locale=pt-br&cache_seconds=1800" 
   />
-  <img src="https://streak-stats.demolab.com?user=JeronimoSantos&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img 
+  height="150"
+  alt="streak graph"
+  src="https://streak-stats.demolab.com?user=JeronimoSantos&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" 
+  />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeronimoSantos&radius=16&theme=modern-lilac&area=true&order=5&hide_border=&locale=pt_br" height="300" alt="activity-graph graph"  />
+###
+
+  <img 
+  height="300"
+  alt="activity-graph" 
+  src="https://github-readme-activity-graph.vercel.app/graph?username=JeronimoSantos&radius=16&theme=modern-lilac&area=true&order=5&hide_border=&locale=pt_br"
+   />
 </div>
 
 ###
