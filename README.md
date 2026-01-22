@@ -72,9 +72,11 @@
   <img 
     height="170" 
     alt="languages graph" 
-    src="https://github-readme-stats-ebon-three-28.vercel.app/api/top-langs?username=JeronimoSantos&layout=compact&langs_count=5&theme=rose_pine&locale=pt-br&cache_seconds=1800" 
+    src="https://github-readme-stats-ebon-three-28.vercel.app/api/top-langs?username=JeronimoSantos&layout=compact&langs_count=6&theme=rose_pine&locale=pt-br&cache_seconds=1800" 
   />
   <img src="https://streak-stats.demolab.com?user=JeronimoSantos&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeronimoSantos&radius=16&theme=modern-lilac&area=true&order=5&hide_border=&locale=pt_br" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -84,8 +86,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeronimoSantos/JeronimoSantos/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JeronimoSantos/JeronimoSantos/output/github-contribution-grid-snake.svg">
 </picture>
-
-###
-
-<img width=100% height=400 src="https://github.com/user-attachments/assets/83d736f5-57df-4e10-ad13-6124dd5a0fac"/>
-</div>
