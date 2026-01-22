@@ -74,11 +74,7 @@
     alt="languages graph" 
     src="https://github-readme-stats-ebon-three-28.vercel.app/api/top-langs?username=JeronimoSantos&layout=compact&langs_count=5&theme=rose_pine&locale=pt-br&cache_seconds=1800" 
   />
-  <img 
-  height="170"
-  alt="streak graph"
-  src="https://streak-stats.demolab.com?user=JeronimoSantos&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3"
-  />
+  <img src="https://streak-stats.demolab.com?user=JeronimoSantos&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
