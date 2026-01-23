@@ -63,7 +63,7 @@
 
 ###  GitHub Stats <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
 
-<div align="center">
+<div align="left">
   <img 
     height="170" 
     alt="stats graph" 
@@ -75,7 +75,7 @@
     src="https://github-readme-stats-ebon-three-28.vercel.app/api/top-langs?username=JeronimoSantos&layout=compact&langs_count=6&theme=rose_pine&locale=pt-br&cache_seconds=1800" 
   />
   <img 
-  height="150"
+  height="170"
   alt="streak graph"
   src="https://streak-stats.demolab.com?user=JeronimoSantos&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" 
   />
