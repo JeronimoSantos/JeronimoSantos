@@ -34,7 +34,7 @@
 
 <div align="left">
   <img 
-    height="200" 
+    height="170" 
     alt="stats graph" 
     src="https://github-readme-stats-ebon-three-28.vercel.app/api?username=JeronimoSantos&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&locale=pt-br&cache_seconds=1800" 
   />
@@ -50,8 +50,6 @@
   />
 </div>
 
-###
-
 ### 🧰 Technologies and Tools <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
 
 ### Front-end
@@ -61,28 +59,33 @@
 | ![HTML5][html5-url] | 95% | 3 years  | Standard language used to create and structure web pages. |
 | ![CSS][css-url] | 95% | 3 years | Style language used to define the visual presentation. |
 | ![JAVASCRIPT][javascript-url] | 95% | 3 years | Interpreted, lightweight, and versatile programming language. |
-| ![TYPESCRIPT][typescript-url] | 60% | 1 years | Programming language with optional static typing. |
-| ![REACT][react-url] | 60% | 1 years | Open Source JavaScript Library |
-| ![TAIWINDCSS][tailwindcss-url] | 70% | 1 years | CSS framework with a utility-first approach. |
+| ![TYPESCRIPT][typescript-url] | 60% | 1 year | Programming language with optional static typing. |
+| ![REACT][react-url] | 60% | 1 year | Open Source JavaScript Library |
+| ![TAIWINDCSS][tailwindcss-url] | 70% | 1 year | CSS framework with a utility-first approach. |
 
 ### Back-end 
 
 | Technologies | Proficiency | Years | Description |
 |-------------|--------------|-------|-------------|
 | ![NODE.JS][node.js-url] | 90% | 2 years | Allows you to run JavaScript outside the browser, on the server side. |
-| ![Python][python-url] | 40% | 1 years | High-level, interpreted, object-oriented programming language. |
+| ![Python][python-url] | 40% | 1 year | High-level, interpreted, object-oriented programming language. |
 
 ### Database
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
-### 🎨 Ferramentas & Design 
+| Technologies | Proficiency | Years | Description |
+|-------------|--------------|-------|-------------|
+| ![MYSQL][mysql-url] | 90% | 1 year | Relational database management system. |
+| ![POSTGRESQL][postgresql-url] | 50% | 1 year | Open-source object-relational database management system. |
 
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> 
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+### Tools & Design 
+
+| Technologies | Proficiency | Years | Description |
+|-------------|--------------|-------|-------------|
+| ![GIT][git-url] | 90% | 3 years | Distributed version control system. |
+| ![GITHUB][github-url] | 95% | 3 years | Source code hosting and version control platform. |
+| ![VSCODE][vscode-url] | 95% | 3 years | Open-source code editor. |
+| ![NPM][npm-url] | 70% | 3 years | Default package manager for the Node.js JavaScript runtime environment. |
+| ![FIGMA][figma-url] | 60% | 1 year | Web-based collaborative design platform. |
 
 ### 📈 Contributions Chart <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
   <img 
@@ -90,6 +93,26 @@
     alt="activity-graph" 
     src="https://github-readme-activity-graph.vercel.app/graph?username=JeronimoSantos&radius=16&theme=modern-lilac&area=true&order=5&hide_border=&locale=pt_br"
   />
+
+### 🌏 Open to opportunities <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
+
+```
+Positions:
+- Estágio
+- Desenvolvedor Junior
+- Engenheiro de Software
+- Desenvolvedor Full Stack
+- Backend (python / Node.js)
+- Frontend (React / Javascript)
+
+Model:
+- Remoto
+- Híbrido
+- Presencial
+
+Location:
+Serra, ES — Brasil
+```
 
 ###
 
@@ -109,5 +132,13 @@
 [tailwindcss-url]: https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white
 
 [node.js-url]: https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white
-
 [python-url]: https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white
+
+[mysql-url]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+[postgresql-url]: https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
+
+[git-url]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[github-url]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
+[vscode-url]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
+[npm-url]: https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
+[figma-url]: https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
