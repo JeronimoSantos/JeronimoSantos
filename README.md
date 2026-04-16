@@ -1,103 +1,103 @@
 <img align = "right" height= "590em" src= "https://raw.githubusercontent.com/gist/JeronimoSantos/045a175c2d06a4cde0cb9a63b0cdb91c/raw/135a0f095aaf128816b389694c149d7184307170/githubcard.svg">
 
 <div align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFCD57&vCenter=true&width=435&lines=%E2%9C%A8+Hello+World!+%E2%9C%A8;%F0%9F%91%A6+My+name+is+Jer%C3%B4nimo+%F0%9F%91%A6;%F0%9F%8E%AE+I'm+21+Years+Old+%F0%9F%8E%AE;%F0%9F%92%BB+Programmer+Full-Stack+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFCD57&vCenter=true&width=435&lines=%E2%9C%A8+Ol%C3%A1+Mundo!+%E2%9C%A8;%F0%9F%91%A6+Meu+nome+%C3%A9+Jer%C3%B4nimo+%F0%9F%91%A6;%F0%9F%8E%AE+Tenho+21+Anos+%F0%9F%8E%AE;%F0%9F%92%BB+Programador+Full-Stack+%F0%9F%92%BB" alt="Typing SVG" /></a>
 </div>
 
-<div align = "left">Full-Stack developer in constant evolution, focused on creating modern and efficient solutions. Currently, I am a graduate of the <strong>Programmers of Tomorrow</strong> program where I am deepening my knowledge in cutting-edge technologies.</div>
+<div align = "left">Desenvolvedor Full-Stack em constante evolução, focado em criar soluções modernas e eficientes. Atualmente, estou fazendo ADS onde estou aprofundando meu conhecimento em tecnologias de ponta.</div>
 
 <br/>
 
 <div align = "left">
-  Currently working on projects with <strong>React, Node.js, TypeScript, and others.</strong> Graduated from the <strong>iFood Tech Power</strong> and <strong>Oracle Next Education</strong> programs. Passionate about transforming ideas into code and learning new tools and languages.
+  Atualmente trabalhando em projetos com <strong>React, Node.js, TypeScript e outros.</strong>Apaixonado por transformar ideias em código e aprender novas ferramentas e linguagens.
 </div>
 
 <div align="left">
 
-### 💬✨ Let's connect <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
+### 💬✨ Vamos nos conectar <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
 
 <div align = "left">
   <a href="https://www.linkedin.com/in/jeronimo-s-rodrigues-dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="logo linkedin"/>
   </a>
   <a href="https://mail.google.com/mail/u/1/#inbox?compose=new" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo"/>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="logo gmail"/>
   </a>
   <a href="https://www.instagram.com/jeronimo_santos_oficial/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="instagram logo"/>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" alt="logo instagram"/>
   </a>
 </div>
 
 ###
 
-### 📊 GitHub Stats <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
+### 📊 Estatísticas do GitHub <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
 
 <div align="left">
   <img 
     height="170" 
-    alt="stats graph" 
+    alt="gráfico de estatísticas" 
     src="https://github-readme-stats-ebon-three-28.vercel.app/api?username=JeronimoSantos&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&locale=pt-br&cache_seconds=1800" 
   />
   <img 
     height="170" 
-    alt="languages graph" 
+    alt="gráfico de linguagens" 
     src="https://github-readme-stats-ebon-three-28.vercel.app/api/top-langs?username=JeronimoSantos&layout=compact&langs_count=6&theme=rose_pine&locale=pt-br&cache_seconds=1800" 
   />
   <img 
   height="170"
-  alt="streak graph"
+  alt="gráfico de sequência"
   src="https://streak-stats.demolab.com?user=JeronimoSantos&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" 
   />
 </div>
 
-### 🧰 Technologies and Tools <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
+### 🧰 Tecnologias e Ferramentas <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
 
 ### Front-end
 
-| Technologies | Proficiency | Years | Description |
+| Tecnologias | Proficiência | Anos | Descrição |
 |-------------|--------------|-------|-------------|
-| ![HTML5][html5-url] | 95% | 3 years  | Standard language used to create and structure web pages. |
-| ![CSS][css-url] | 95% | 3 years | Style language used to define the visual presentation. |
-| ![JAVASCRIPT][javascript-url] | 95% | 3 years | Interpreted, lightweight, and versatile programming language. |
-| ![TYPESCRIPT][typescript-url] | 60% | 1 year | Programming language with optional static typing. |
-| ![REACT][react-url] | 60% | 1 year | Open Source JavaScript Library |
-| ![TAIWINDCSS][tailwindcss-url] | 70% | 1 year | CSS framework with a utility-first approach. |
+| ![HTML5][html5-url] | 95% | 3 anos  | Linguagem padrão para criar e estruturar páginas web. |
+| ![CSS][css-url] | 95% | 3 anos | Linguagem de estilo para definir a apresentação visual. |
+| ![JAVASCRIPT][javascript-url] | 95% | 3 anos | Linguagem de programação interpretada, leve e versátil. |
+| ![TYPESCRIPT][typescript-url] | 60% | 1 ano | Linguagem de programação com tipagem estática opcional. |
+| ![REACT][react-url] | 60% | 1 ano | Biblioteca JavaScript de código aberto. |
+| ![TAIWINDCSS][tailwindcss-url] | 70% | 1 ano | Framework CSS com abordagem utilitária. |
 
 ### Back-end 
 
-| Technologies | Proficiency | Years | Description |
+| Tecnologias | Proficiência | Anos | Descrição |
 |-------------|--------------|-------|-------------|
-| ![NODE.JS][node.js-url] | 90% | 2 years | Allows you to run JavaScript outside the browser, on the server side. |
-| ![Python][python-url] | 40% | 1 year | High-level, interpreted, object-oriented programming language. |
+| ![NODE.JS][node.js-url] | 90% | 2 anos | Permite executar JavaScript fora do navegador, no lado do servidor. |
+| ![Python][python-url] | 40% | 1 ano | Linguagem de programação de alto nível, interpretada e orientada a objetos. |
 
-### Database
+### Banco de Dados
 
-| Technologies | Proficiency | Years | Description |
+| Tecnologias | Proficiência | Anos | Descrição |
 |-------------|--------------|-------|-------------|
-| ![MYSQL][mysql-url] | 90% | 1 year | Relational database management system. |
-| ![POSTGRESQL][postgresql-url] | 50% | 1 year | Open-source object-relational database management system. |
+| ![MYSQL][mysql-url] | 90% | 1 ano | Sistema de gerenciamento de banco de dados relacional. |
+| ![POSTGRESQL][postgresql-url] | 50% | 1 ano | Sistema de gerenciamento de banco de dados objeto-relacional de código aberto. |
 
-### Tools & Design 
+### Ferramentas e Design 
 
-| Technologies | Proficiency | Years | Description |
+| Tecnologias | Proficiência | Anos | Descrição |
 |-------------|--------------|-------|-------------|
-| ![GIT][git-url] | 90% | 3 years | Distributed version control system. |
-| ![GITHUB][github-url] | 95% | 3 years | Source code hosting and version control platform. |
-| ![VSCODE][vscode-url] | 95% | 3 years | Open-source code editor. |
-| ![NPM][npm-url] | 70% | 3 years | Default package manager for the Node.js JavaScript runtime environment. |
-| ![FIGMA][figma-url] | 60% | 1 year | Web-based collaborative design platform. |
+| ![GIT][git-url] | 90% | 3 anos | Sistema de controle de versão distribuído. |
+| ![GITHUB][github-url] | 95% | 3 anos | Plataforma de hospedagem de código-fonte e controle de versão. |
+| ![VSCODE][vscode-url] | 95% | 3 anos | Editor de código de código aberto. |
+| ![NPM][npm-url] | 70% | 3 anos | Gerenciador de pacotes padrão para o ambiente de execução Node.js. |
+| ![FIGMA][figma-url] | 60% | 1 ano | Plataforma de design colaborativo baseada na web. |
 
-### 📈 Contributions Chart <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
+### 📈 Gráfico de Contribuições <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
   <img 
     height="300"
-    alt="activity-graph" 
+    alt="gráfico de atividades" 
     src="https://github-readme-activity-graph.vercel.app/graph?username=JeronimoSantos&radius=16&theme=modern-lilac&area=true&order=5&hide_border=&locale=pt_br"
   />
 
-### 🌏 Open to opportunities <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
+### 🌏 Aberto a oportunidades <hr style="height: 5px; border: none; background: linear-gradient(to right, #020024, #090979, #00D4FF);">
 
 ```
-Positions:
+Cargos:
 - Estágio
 - Desenvolvedor Junior
 - Engenheiro de Software
@@ -105,12 +105,12 @@ Positions:
 - Backend (python / Node.js)
 - Frontend (React / Javascript)
 
-Model:
+Modelo:
 - Remoto
 - Híbrido
 - Presencial
 
-Location:
+Localização:
 Serra, ES — Brasil
 ```
 
@@ -119,7 +119,7 @@ Serra, ES — Brasil
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeronimoSantos/JeronimoSantos/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeronimoSantos/JeronimoSantos/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JeronimoSantos/JeronimoSantos/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="animação de cobra na grade de contribuições do github" src="https://raw.githubusercontent.com/JeronimoSantos/JeronimoSantos/output/github-contribution-grid-snake.svg">
 </picture>
 
 
